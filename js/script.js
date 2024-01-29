@@ -30,6 +30,6 @@ createApp({
             axios.get(this.apiUrl).then((response) => {
                 this.todoList = response.data;
             });
-        }
+        },
     },
 }).mount('#app')
