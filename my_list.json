@@ -1,0 +1,22 @@
+[
+    {
+        "task": "Dare da mangiare ai draghi di Daenerys",
+        "done": true
+    },
+    {
+        "task": "Incontrare Tyrion Lannister",
+        "done": false
+    },
+    {
+        "task": "Consegnare una spada nuova a John Snow",
+        "done": true
+    },
+    {
+        "task": "Visitare Approdo del Re",
+        "done": false
+    },
+    {
+        "task": "Scoprire cosa c'è oltre la Barriera di Ghiaccio",
+        "done": false
+    }
+]
